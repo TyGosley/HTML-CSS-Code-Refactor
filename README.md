@@ -38,29 +38,19 @@ To improve the quality of the webpage as well as clean up the code.  It was also
 
 This project helped me learn numerous ideas.  It helped familiarize me with semantic HTML elements, CSS properties and VS code.  The more I do, the more I learn.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
+## Table of Contents 
 
 - [Usage](#usage)
 - [Screenshot](#screenshot)
 - [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-N/A
 
 ## Usage
 
 To navigate to this page, please [CLICK HERE](https://tygosley.github.io/module-1-challenge/).  To use the Chrome DevTools, simply "right click" and use the inspect function or use keyboard shortcuts by press Command+Option+I (macOS) or Control+Shift+I (Windows).
 
-# Screenshot
+## Screenshot
 
-For a screenshot of the project, please [click here](https://github.com/TyGosley/module-1-challenge/blob/main/Screenshot%20Module-1-Challenge.png)
+For a screenshot of the project, please [click here](https://github.com/TyGosley/module-1-challenge/blob/main/Screenshot%20Module-1-Challenge.png).
 
   
 ## Credits
@@ -71,7 +61,7 @@ Starter code was used from https://github.com/coding-boot-camp/urban-octo-telegr
 
 -Team UCLA Bootcamp
 
--Michael Lin: Github pending...
+-Michael Lin: 
 
 
 
