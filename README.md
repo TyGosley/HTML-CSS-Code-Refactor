@@ -24,16 +24,13 @@ N/A
 
 ## Usage
 
-To navigate to this page, please [Click Here]().  To use the Chrome DevTools, simply "right click" and use the inspect function or use keyboard shortcuts by press Command+Option+I (macOS) or Control+Shift+I (Windows).
+To navigate to this page, please [click here]().  To use the Chrome DevTools, simply "right click" and use the inspect function or use keyboard shortcuts by press Command+Option+I (macOS) or Control+Shift+I (Windows).
 
 # Screenshot
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+For a screenshot of the project, please [click here]()
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
+  
 ## Credits
 
 Collaborators:
@@ -42,7 +39,7 @@ Starter code was used from https://github.com/coding-boot-camp/urban-octo-telegr
 
 -Team UCLA Bootcamp
 
--Michael Lin
+-Michael Lin: Github pending...
 
 
 
